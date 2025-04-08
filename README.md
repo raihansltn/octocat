@@ -1,5 +1,5 @@
 # Hello There, I'm Raihan!
-### An undergraduate Computer Science student at Universitas Ary Ginanjar. I’m a dedicated Security practitioner and Junior Researcher with a passion for exploring diverse and impactful fields. In short, my research interests are to discover and understand critical security issues, and then to design and develop innovative solutions to address these issues.
+##### An undergraduate Computer Science student at Universitas Ary Ginanjar. I’m a dedicated Security practitioner and Junior Researcher with a passion for exploring diverse and impactful fields. In short, my research interests are to discover and understand critical security issues, and then to design and develop innovative solutions to address these issues.
 
 I'm currently doing research for AIRDU Research Group of Universitas Ary Ginanjar, and some small research projects in my personal lab.
 
@@ -19,3 +19,4 @@ My work itself, spans across cybersecurity, where I specialize in uncovering and
 
 ##### Connect with me at raihansultanpb@gmail.com
 ##### Visit my Website at [raihansultan.tech](https://raihansultan.tech)
+<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="20" height="20"></img><a href="https://www.linkedin.com/in/raihansltn/">Raihan Sultan Pasha Basuki</a>
